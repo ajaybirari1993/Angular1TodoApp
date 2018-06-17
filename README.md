@@ -1,2 +1,1 @@
-# angular1
-Learn Angular 1
+# Angular1TodoApp
